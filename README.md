@@ -1,4 +1,4 @@
-# Credit_EDA_case_study
+# Risk-Analysis-of-Loan (Credit_EDA_case_study)
 ### Problem Statement
  
 
